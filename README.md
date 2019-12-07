@@ -1,11 +1,11 @@
-**林彥伶**影像視覺化X金融分析
+**林彥伶--影像視覺化X金融分析**
 國立台北商業大學 財務金融系
 
 Information
 ==========================
-+星座：雙子 <br /> 
++星座：雙子  
++興趣：游泳.閱讀  
 
-+興趣：游泳.閱讀 <br /> 
 
 
 
@@ -13,7 +13,7 @@ Information
 =========================
 
 多維度視覺化
-### 顏色、時間、數量、分佈關係、對比維度、空間、特定標準
+##顏色、時間、數量、分佈關係、對比維度、空間、特定標準##
 
-[25種圖表效果]https://www.finereport.com/tw/knowledge/finereport/25-tubiao.html
+[25種圖表效果]:https://www.finereport.com/tw/knowledge/finereport/25-tubiao.html
 
